@@ -2,7 +2,7 @@ title:            digitalRoots
 tagline:          Empowering SMBs, Non-Profits / Community-Based Organizations, People
 description:      Empowering SMBs, Non-Profits / Community-Based Organizations, People
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://mmistakes.github.io/minimal-mistakes
+url:              http://digitalroots.github.io/digitalRoots-website/
 
 # Owner/author information
 owner:
