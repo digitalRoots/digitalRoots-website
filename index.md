@@ -1,5 +1,5 @@
 ---
-layout: defautl
+layout: default
 description: "digitalRoots Home"
-
 ---
+###Test
